@@ -1,4 +1,3 @@
-'use strict'
 import './styles/style.css'
 
 class Cards {
